@@ -1,0 +1,106 @@
+baseURL = "https://sandeeplamba.dev"
+title = "Sandeep Lamba"
+
+theme = "hugo-coder"
+
+languageCode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+# disqusShortname = "sandeeplamb"
+
+[params]
+    author = "Sandeep Lamba"
+    info = "CloudNative DevOps"
+    description = "Sandeep Lamba's World"
+    keywords = "blog,devops,personal,devsecops,kubernetes,aws"
+    avatarurl = "images/avatar.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Sandeep Lamba."
+    dateformat = "January 2, 2020"
+    commit = "https://github.com/sandeeplamb/"
+    # fixedbarContentAfter = "Thank You! Please share it if you like it"
+
+    hidecredits = false
+    hidecopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+    enableFacebookShare = true
+    enableHatenaShare = false
+    enableLineShare = false
+    enableLinkedInShare = true
+
+    # thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    # itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+    math = true
+    # custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/sandeeplamb/"
+[[params.social]]
+    name = "linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 2
+    url = "https://www.linkedin.com/in/sandeep-lamba-15ba1128/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/sandeeplamb/"
+
+# [languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English"
+        title = "Sandeep Lamba"
+        [languages.en.params]
+            author = "Sandeep Lamba"
+            info = "DevOps"
+            description = "Sandeep Lamba's personal website"
+            keywords = "blog,developer,personal"
+        [languages.en.menu] 
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "/about/"
+            [[languages.en.menu.main]]
+                name = "Blogs"
+                weight = 2.0
+                url = "/blogs/"
+            [[languages.en.menu.main]]
+                name = "Kubernetes"
+                weight = 3
+                url = "/kubernetes/"
+            [[languages.en.menu.main]]
+                name = "AWS"
+                weight = 4
+                url = "/aws/"
