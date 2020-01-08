@@ -84,7 +84,7 @@ pygmentsUseClasses = true
         title = "Sandeep Lamba"
         [languages.en.params]
             author = "Sandeep Lamba"
-            info = "DevOps"
+            info = "CloudNative DevOps"
             description = "Sandeep Lamba's personal website"
             keywords = "blog,developer,personal"
         [languages.en.menu] 
