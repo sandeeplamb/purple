@@ -68,7 +68,7 @@ _Languages_
 
 ----
 
-**Senior DevOps Engineer, [Grand-Parade](https://grandparade.co.uk/), Krakow(Poland)** 
+**Senior DevOps Engineer, [Grand-Parade][6], Krakow(Poland)** 
 
 > *March 2018 &ndash; Present*
 
@@ -79,7 +79,7 @@ _Languages_
 >   <img src="/images/tech-stack.png" width="585"> </image>
 > </p>
 
-**Devops, Senior System Administrator, [Tabella](http://tabella.cz/), Prague(Czech Republic)**  
+**Devops, Senior System Administrator, [Tabella][5], Prague(Czech Republic)**  
 
 > *October 2016 &ndash; January 2018*  
 
@@ -98,7 +98,7 @@ _Languages_
 >   <img src="/images/tech-stack-tabella.png" width="585"> </image>
 > </p>
 
-**Systems and Integration Enginner, [Gemalto](https://www.gemalto.com/), Prague(Czech Republic)**  
+**Systems and Integration Enginner, [Gemalto][4], Prague(Czech Republic)**  
 > *December 2015 &ndash; November 2016*  
 
 > - Integration Activities for developers and validators
@@ -111,7 +111,7 @@ _Languages_
 > - WebSphere Clustering, Apache Proxy, IBM HTTP Server(IHS) as Reverse Proxy
 > - Automation Scripts in Shell, Python, Simple Java programs
 
-**Systems Enginner, [Gemalto](https://www.gemalto.com/), Singapore**  
+**Systems Enginner, [Gemalto][4], Singapore**  
 > *January 2012 &ndash; December 2015*  
 
 > - Integration in Data Center Singapore 
@@ -123,7 +123,7 @@ _Languages_
 > - Tools Stack : UNIX, Python, Perl Scripting, Weblogic, JBOSS, VCS, Network Security
 > - Web Service Security, TLS Mutual Authentication, Apache Server, NGM Monitoring, Oracle PL/SQL
 
-**IT Support Analyst, [Tech-Mahindra](https://www.techmahindra.com/cwce.html), Milton Keynes(UK)**  
+**IT Support Analyst, [Tech-Mahindra][3], Milton Keynes(UK)**  
 > *September 2008 &ndash; July 2011*  
 
 > - Responsible to provide Second and Third line support for British Telecom applications
@@ -132,7 +132,7 @@ _Languages_
 > - Provide software Code Changes, bug fixes and general maintenance of the product
 > - Liaising with Testing Team to resolve Code Level Changes and testing and pusing to Live
 
-**Testing Analyst, [Tech-Mahindra](https://www.techmahindra.com/cwce.html), Pune(India)**  
+**Testing Analyst, [Tech-Mahindra][3], Pune(India)**  
 > *July 2007 &ndash; August 2008*  
 
 > - Automation of the Application with tool WinRunner
@@ -147,7 +147,7 @@ _Languages_
 > - Issue Date - March, 2019
 > - Expiration Date - March, 2022
 > - Credentials ID - LP3TBB6KLMRQ1CGR
-> - [Credential URL](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-03-14&ci=AWS00379394)
+> - [Credential URL][2]
 > <p align="left">
 > <img src="/images/AWS-SAA-Badge.png" width="185"> </image>
 > </p>
@@ -158,9 +158,16 @@ _Languages_
 > - Issue Date - August, 2018
 > - Expiration Date - August, 2021
 > - Credentials ID - CKA-1800-0677-0100
-> - [Credential URL](https://portal.linuxfoundation.org/certification/verify-certifications)
+> - [Credential URL][1]
 > <p align="left">
 > <img src="/images/logo_cka.png" width="185"> </image>
 > </p>
 
-----
+---
+
+[1]: https://portal.linuxfoundation.org/certification/verify-certifications
+[2]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-03-14&ci=AWS00379394
+[3]: https://www.techmahindra.com/cwce.html
+[4]: https://www.gemalto.com
+[5]: http://tabella.cz
+[6]: https://grandparade.co.uk
