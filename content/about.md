@@ -163,6 +163,12 @@ _Languages_
 > <img src="/images/logo_cka.png" width="185"> </image>
 > </p>
 
+| Issuing Organization | Issue Date | Expiration Date | Credentials ID | Badge |
+| --- | --- | --- | --- | --- | 
+| `Amazon Web Services (AWS)`| March, 2019 | March, 2022 | LP3TBB6KLMRQ1CGR | [<p align="left"> <img src="/images/AWS-SAA-Badge.png" width="185"> </image> </p>](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-03-14&ci=AWS00379394) | 
+| `CNCF [Cloud Native Computing Foundation]`| August, 2018 | August, 2021 | CKA-1800-0677-0100 | [<p align="left"> <img src="/images/logo_cka.png" width="185"> </image> </p>](https://portal.linuxfoundation.org/certification/verify-certifications) | 
+| ` `|  | ` ` | | | 
+
 ---
 
 [1]: https://portal.linuxfoundation.org/certification/verify-certifications
